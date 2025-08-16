@@ -1,0 +1,11 @@
+pillow
+exifread
+opencv-python
+scikit-image
+click
+rich
+binwalk
+binutils 
+vim-common
+imagehash
+pytesseract
