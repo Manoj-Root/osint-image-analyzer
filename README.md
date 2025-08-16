@@ -44,6 +44,7 @@ pip install -r requirements.txt
 ### Linux:
 
 sudo apt update
+
 sudo apt install binwalk binutils vim-common steghide tesseract-ocr
 
 
