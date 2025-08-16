@@ -7,3 +7,4 @@ rich
 binwalk
 imagehash
 pytesseract
+pyfiglet
